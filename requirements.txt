@@ -1,1 +1,6 @@
-soft-ts
+matplotlib
+seaborn
+mlflow
+torch
+torchvision
+pytorch-forecasting

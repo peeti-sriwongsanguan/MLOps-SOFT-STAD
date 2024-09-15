@@ -11,6 +11,9 @@ dependencies:
   - seaborn
   - jupyter
   - pytest
+  - mlflow
+  - pytorch::pytorch
+  - pytorch::torchvision
   - pip
   - pip:
     - -r requirements.txt
