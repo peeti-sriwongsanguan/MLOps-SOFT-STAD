@@ -1,0 +1,15 @@
+artifact_uri: /Users/peeti_mac/PycharmProjects/MLOps-SOFT-STAD/mlflow/mlruns/583789225488696051/d40b09dc83b34be8894c353ac9e64677/artifacts
+end_time: 1726401565494
+entry_point_name: ''
+experiment_id: '583789225488696051'
+lifecycle_stage: active
+run_id: d40b09dc83b34be8894c353ac9e64677
+run_name: popular-shoat-404
+run_uuid: d40b09dc83b34be8894c353ac9e64677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726401565200
+status: 4
+tags: []
+user_id: peeti_mac

@@ -1,0 +1,15 @@
+artifact_uri: /Users/peeti_mac/PycharmProjects/MLOps-SOFT-STAD/mlflow/mlruns/583789225488696051/f8ed5de54f7142028307c2069206bce2/artifacts
+end_time: 1726401964976
+entry_point_name: ''
+experiment_id: '583789225488696051'
+lifecycle_stage: active
+run_id: f8ed5de54f7142028307c2069206bce2
+run_name: languid-fly-163
+run_uuid: f8ed5de54f7142028307c2069206bce2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726401964692
+status: 4
+tags: []
+user_id: peeti_mac

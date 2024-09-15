@@ -1,0 +1,15 @@
+artifact_uri: /Users/peeti_mac/PycharmProjects/MLOps-SOFT-STAD/mlflow/mlruns/583789225488696051/ad7991181e374e40923d3fc14967cabe/artifacts
+end_time: 1726406360679
+entry_point_name: ''
+experiment_id: '583789225488696051'
+lifecycle_stage: active
+run_id: ad7991181e374e40923d3fc14967cabe
+run_name: intrigued-ant-897
+run_uuid: ad7991181e374e40923d3fc14967cabe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726405994832
+status: 4
+tags: []
+user_id: peeti_mac

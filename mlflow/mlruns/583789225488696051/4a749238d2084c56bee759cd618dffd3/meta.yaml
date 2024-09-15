@@ -1,0 +1,15 @@
+artifact_uri: /Users/peeti_mac/PycharmProjects/MLOps-SOFT-STAD/mlflow/mlruns/583789225488696051/4a749238d2084c56bee759cd618dffd3/artifacts
+end_time: 1726403543620
+entry_point_name: ''
+experiment_id: '583789225488696051'
+lifecycle_stage: active
+run_id: 4a749238d2084c56bee759cd618dffd3
+run_name: whimsical-wasp-857
+run_uuid: 4a749238d2084c56bee759cd618dffd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726403174310
+status: 3
+tags: []
+user_id: peeti_mac

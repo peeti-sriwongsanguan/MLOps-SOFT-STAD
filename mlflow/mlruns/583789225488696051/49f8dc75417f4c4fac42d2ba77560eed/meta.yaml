@@ -1,0 +1,15 @@
+artifact_uri: /Users/peeti_mac/PycharmProjects/MLOps-SOFT-STAD/mlflow/mlruns/583789225488696051/49f8dc75417f4c4fac42d2ba77560eed/artifacts
+end_time: 1726409138118
+entry_point_name: ''
+experiment_id: '583789225488696051'
+lifecycle_stage: active
+run_id: 49f8dc75417f4c4fac42d2ba77560eed
+run_name: rogue-bat-905
+run_uuid: 49f8dc75417f4c4fac42d2ba77560eed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726408772046
+status: 3
+tags: []
+user_id: peeti_mac

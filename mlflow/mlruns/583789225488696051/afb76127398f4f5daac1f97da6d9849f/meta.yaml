@@ -1,0 +1,15 @@
+artifact_uri: /Users/peeti_mac/PycharmProjects/MLOps-SOFT-STAD/mlflow/mlruns/583789225488696051/afb76127398f4f5daac1f97da6d9849f/artifacts
+end_time: 1726402275882
+entry_point_name: ''
+experiment_id: '583789225488696051'
+lifecycle_stage: active
+run_id: afb76127398f4f5daac1f97da6d9849f
+run_name: glamorous-sponge-701
+run_uuid: afb76127398f4f5daac1f97da6d9849f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726402275372
+status: 4
+tags: []
+user_id: peeti_mac

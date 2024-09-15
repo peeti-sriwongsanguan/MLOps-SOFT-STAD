@@ -1,0 +1,15 @@
+artifact_uri: /Users/peeti_mac/PycharmProjects/MLOps-SOFT-STAD/mlflow/mlruns/583789225488696051/95f9cd8676be48aab4e7b5f575c9c62a/artifacts
+end_time: 1726405043030
+entry_point_name: ''
+experiment_id: '583789225488696051'
+lifecycle_stage: active
+run_id: 95f9cd8676be48aab4e7b5f575c9c62a
+run_name: salty-hog-279
+run_uuid: 95f9cd8676be48aab4e7b5f575c9c62a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726404678411
+status: 4
+tags: []
+user_id: peeti_mac

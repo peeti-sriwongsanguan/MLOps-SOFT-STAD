@@ -1,0 +1,15 @@
+artifact_uri: /Users/peeti_mac/PycharmProjects/MLOps-SOFT-STAD/mlflow/mlruns/583789225488696051/529b16f1865b43ed993f4759c4fa8caf/artifacts
+end_time: 1726408292343
+entry_point_name: ''
+experiment_id: '583789225488696051'
+lifecycle_stage: active
+run_id: 529b16f1865b43ed993f4759c4fa8caf
+run_name: debonair-bass-958
+run_uuid: 529b16f1865b43ed993f4759c4fa8caf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726407929264
+status: 4
+tags: []
+user_id: peeti_mac

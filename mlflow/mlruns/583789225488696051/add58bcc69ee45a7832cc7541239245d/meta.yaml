@@ -1,0 +1,15 @@
+artifact_uri: /Users/peeti_mac/PycharmProjects/MLOps-SOFT-STAD/mlflow/mlruns/583789225488696051/add58bcc69ee45a7832cc7541239245d/artifacts
+end_time: 1726401856416
+entry_point_name: ''
+experiment_id: '583789225488696051'
+lifecycle_stage: active
+run_id: add58bcc69ee45a7832cc7541239245d
+run_name: calm-finch-868
+run_uuid: add58bcc69ee45a7832cc7541239245d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726401856371
+status: 4
+tags: []
+user_id: peeti_mac

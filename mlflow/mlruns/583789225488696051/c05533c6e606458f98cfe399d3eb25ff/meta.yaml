@@ -1,0 +1,15 @@
+artifact_uri: /Users/peeti_mac/PycharmProjects/MLOps-SOFT-STAD/mlflow/mlruns/583789225488696051/c05533c6e606458f98cfe399d3eb25ff/artifacts
+end_time: 1726406880451
+entry_point_name: ''
+experiment_id: '583789225488696051'
+lifecycle_stage: active
+run_id: c05533c6e606458f98cfe399d3eb25ff
+run_name: brawny-moth-116
+run_uuid: c05533c6e606458f98cfe399d3eb25ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726406880243
+status: 4
+tags: []
+user_id: peeti_mac

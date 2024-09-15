@@ -4,3 +4,11 @@ data/*
 .idea/
 .idea
 .idea/*
+
+.DS_Store
+
+# Docker
+.dockerignore
+
+src/__pycache__/
+

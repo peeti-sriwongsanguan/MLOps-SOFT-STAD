@@ -1,0 +1,15 @@
+artifact_uri: /Users/peeti_mac/PycharmProjects/MLOps-SOFT-STAD/mlflow/mlruns/583789225488696051/c90ad9d6443a4675a4bf961bf85e645f/artifacts
+end_time: 1726401459735
+entry_point_name: ''
+experiment_id: '583789225488696051'
+lifecycle_stage: active
+run_id: c90ad9d6443a4675a4bf961bf85e645f
+run_name: kindly-fly-67
+run_uuid: c90ad9d6443a4675a4bf961bf85e645f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726401459452
+status: 4
+tags: []
+user_id: peeti_mac

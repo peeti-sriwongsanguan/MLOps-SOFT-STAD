@@ -1,0 +1,15 @@
+artifact_uri: /Users/peeti_mac/PycharmProjects/MLOps-SOFT-STAD/mlflow/mlruns/583789225488696051/2e9af04956a84bb291250fc8589a6486/artifacts
+end_time: 1726401103374
+entry_point_name: ''
+experiment_id: '583789225488696051'
+lifecycle_stage: active
+run_id: 2e9af04956a84bb291250fc8589a6486
+run_name: fearless-wren-540
+run_uuid: 2e9af04956a84bb291250fc8589a6486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726401103318
+status: 4
+tags: []
+user_id: peeti_mac

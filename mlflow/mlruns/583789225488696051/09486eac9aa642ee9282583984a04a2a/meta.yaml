@@ -1,0 +1,15 @@
+artifact_uri: /Users/peeti_mac/PycharmProjects/MLOps-SOFT-STAD/mlflow/mlruns/583789225488696051/09486eac9aa642ee9282583984a04a2a/artifacts
+end_time: 1726402599243
+entry_point_name: ''
+experiment_id: '583789225488696051'
+lifecycle_stage: active
+run_id: 09486eac9aa642ee9282583984a04a2a
+run_name: angry-penguin-846
+run_uuid: 09486eac9aa642ee9282583984a04a2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726402598700
+status: 4
+tags: []
+user_id: peeti_mac
